@@ -11,6 +11,8 @@ from tkinter import filedialog
 from tkinter import simpledialog
 from tkinter import font
 
+#TODO: Integrate DB for different workspaces instead of one txt file for the entire program
+
 #Creating custom fonts for visual appeal
 
 my_font=('Arial', 15, 'bold')
